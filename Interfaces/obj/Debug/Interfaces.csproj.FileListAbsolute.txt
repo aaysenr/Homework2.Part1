@@ -1,0 +1,14 @@
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\bin\Debug\Interfaces.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\bin\Debug\Interfaces.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\bin\Debug\Interfaces.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\obj\Debug\Interfaces.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Interfaces\obj\Debug\Interfaces.pdb

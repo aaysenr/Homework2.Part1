@@ -1,0 +1,21 @@
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Conditionals\obj\Debug\Conditionals.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\bin\Debug\Conditionals.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\bin\Debug\Conditionals.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\bin\Debug\Conditionals.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\obj\Debug\Conditionals.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Conditionals\obj\Debug\Conditionals.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Conditionals\obj\Debug\Conditionals.pdb

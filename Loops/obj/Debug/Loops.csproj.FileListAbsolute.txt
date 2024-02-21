@@ -1,0 +1,14 @@
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\bin\Debug\Loops.exe.config
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\bin\Debug\Loops.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\bin\Debug\Loops.pdb
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\obj\Debug\Loops.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Loops\obj\Debug\Loops.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\bin\Debug\Loops.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\bin\Debug\Loops.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\bin\Debug\Loops.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\obj\Debug\Loops.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Loops\obj\Debug\Loops.pdb

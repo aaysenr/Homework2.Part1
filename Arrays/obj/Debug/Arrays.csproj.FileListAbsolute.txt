@@ -1,0 +1,21 @@
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\bin\Debug\Arrays.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\bin\Debug\Arrays.pdb
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\obj\Debug\Arrays.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\Arrays\obj\Debug\Arrays.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\bin\Debug\Arrays.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\bin\Debug\Arrays.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\bin\Debug\Arrays.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\obj\Debug\Arrays.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\Arrays\obj\Debug\Arrays.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\bin\Debug\Arrays.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\bin\Debug\Arrays.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\obj\Debug\Arrays.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Arrays\obj\Debug\Arrays.pdb

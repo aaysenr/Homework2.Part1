@@ -1,0 +1,14 @@
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\bin\Debug\Inheritance.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\bin\Debug\Inheritance.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\obj\Debug\Inheritance.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Inheritance\obj\Debug\Inheritance.pdb

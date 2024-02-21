@@ -1,0 +1,21 @@
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe.config
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.pdb
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1-2.2\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\bin\Debug\TypeAndVariables.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\TypeAndVariables\obj\Debug\TypeAndVariables.pdb

@@ -1,0 +1,30 @@
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\SOYDAN\Desktop\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.pdb
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.exe
+E:\Kodlarım\C# Course Ödevleri\Odev2.1\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\RecapDemo1\obj\Debug\RecapDemo1.pdb

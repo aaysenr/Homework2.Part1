@@ -1,0 +1,14 @@
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\bin\Debug\Methods.exe.config
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\bin\Debug\Methods.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\bin\Debug\Methods.pdb
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\obj\Debug\Methods.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.1\Methods\obj\Debug\Methods.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\bin\Debug\Methods.exe.config
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\bin\Debug\Methods.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\bin\Debug\Methods.pdb
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\obj\Debug\Methods.exe
+C:\Users\SOYDAN\Desktop\Solution2.1\Methods\obj\Debug\Methods.pdb
